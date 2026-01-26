@@ -1,16 +1,64 @@
-## Hi there 👋
 
-<!--
-**heom27/heom27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Açıklayıcı GIF](https://camo.githubusercontent.com/19c08135103dc40d345acfb172dee18d5c18f52a00b91046da5a78473cc6f748/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3533666164305f63653037303463616130313734643661613962326238313031613632666137377e6d76322e676966)
 
-Here are some ideas to get you started:
+<h1 align="center">👋 Hey there, HEO</h1>
+<h3 align="center">17 y/o Turkish Student | Aspiring Coder & Cyber Explorer | Graphic Desinger </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🟢 Quick Status
+
+> 🚀 **Current Focus:** Deep diving into Python's advanced libraries and mastering Linux administration.
+> 💬 **Ask Me About:** Python basics, Linux CLI, or entry-level cybersecurity concepts.
+> 📧 **Reach Me At:** 
+
+---
+
+### 🧠 My Digital Playground & Skills
+
+#### 💻 Main Programming Languages & Core Tech
+
+<p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a> 
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
+</p>
+
+#### 🎨 Design & Other Tools
+
+<p align="left">
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/> </a> 
+    <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/> </a>
+</p>
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/> </a>
+
+
+---
+
+### 📚 Learning Roadmap (Progress Check!)
+
+| 🎯 Goal Area | Current Status | Key Topics |
+| :--- | :--- | :--- |
+| **Python** | 🟢 Advanced | Web Scraping, Data Structures, OOP |
+| **C/C++** | 🟡 Fundamentals | Memory Management, Pointers |
+| **Cybersec** | 🔵 Beginner | Network Scanning, Basic Pen Testing Concepts |
+
+---
+
+### 🔗 Let's Connect!
+
+<p align="left">
+    <a href="https://dev.to/heomac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heomac" height="30" width="40" /></a>
+    <a href="https://instagram.com/heomac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heomac" height="30" width="40" /></a>
+</p>
+
+### ☕ Support My Next Project!
+
+<p><a href="https://www.buymeacoffee.com/huseyinefec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="Buy Me A Coffee" /></a></p>
+<br><br>
+
+---
+
+<h6 align="center">"Code is like humor. When you have to explain it, it’s bad." - Anonymous</h6>
