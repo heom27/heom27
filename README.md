@@ -49,15 +49,8 @@
 
 ### 🔗 Let's Connect!
 
-<p align="left">
-    <a href="https://dev.to/heomac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="heomac" height="30" width="40" /></a>
-    <a href="https://instagram.com/heomac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="heomac" height="30" width="40" /></a>
-</p>
 
 ### ☕ Support My Next Project!
-
-<p><a href="https://www.buymeacoffee.com/huseyinefec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="160" alt="Buy Me A Coffee" /></a></p>
-<br><br>
 
 ---
 
